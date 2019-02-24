@@ -1,0 +1,39 @@
+Nomes ordenados por categoria :
+
+Mouse Gamer Predator cestus 510 Fox Preto
+Lava & Seca 10,2 Kg Samsung Eco bubble branca com 09 Programas de Lavagem
+Refrigerador bottom Freezer Electrolux de 02 Portas Frost Free com 598 Litros
+Fogão de Piso Electrolux de 04 bocas, Mesa de Vidro Prata
+Forno Micro-ondas Panasonic com capacidade de 21 Litros branco
+Smart TV 4K Sony LED 65” 4K X-Reality Pro, UpScalling, Motionflow XR 240 e Wi-F
+Home Theater LG com blu-ray 3D, 5.1 canais e 1000W
+Kit Gamer acer - Notebook + Headset + Mouse
+Monitor 29 LG FHD Ultrawide com 1000:1 de contraste
+Conjunto de Panelas antiaderentes com 05 Peças Paris
+
+Nomes ordenados por id:
+
+Refrigerador bottom Freezer Electrolux de 02 Portas Frost Free com 598 Litros
+Mouse Gamer Predator cestus 510 Fox Preto
+Kit Gamer acer - Notebook + Headset + Mouse
+Monitor 29 LG FHD Ultrawide com 1000:1 de contraste
+Conjunto de Panelas antiaderentes com 05 Peças Paris
+Fogão de Piso Electrolux de 04 bocas, Mesa de Vidro Prata
+Smart TV 4K Sony LED 65” 4K X-Reality Pro, UpScalling, Motionflow XR 240 e Wi-F
+Forno Micro-ondas Panasonic com capacidade de 21 Litros branco
+Lava & Seca 10,2 Kg Samsung Eco bubble branca com 09 Programas de Lavagem
+Home Theater LG com blu-ray 3D, 5.1 canais e 1000W
+
+
+
+O valor total do estoque  por categoria é :
+
+Acessórios: R$0.00
+
+Eletrodomésticos: R$315752.67
+
+Eletrônicos: R$203989.20
+
+Panelas: R$4049.64
+
+
